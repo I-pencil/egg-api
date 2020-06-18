@@ -1,6 +1,6 @@
-# hackernews-async-ts
+# Egg Api
 
-[Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
+基于Egg.js的RESTful api
 
 ## QuickStart
 
