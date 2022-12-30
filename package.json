@@ -41,7 +41,7 @@
     "@types/supertest": "^2.0.10",
     "autod": "^3.0.1",
     "autod-egg": "^1.1.0",
-    "egg-bin": "^4.15.0",
+    "egg-bin": "^5.9.0",
     "egg-ci": "^1.8.0",
     "egg-mock": "^3.16.0",
     "egg-sequelize-auto": "^0.1.1",
